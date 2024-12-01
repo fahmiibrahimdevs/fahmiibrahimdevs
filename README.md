@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **English, IoT Application**
 
-- 👨‍💻 All of my projects are available at [https://fahmiibrahimdev.my.id/](https://fahmiibrahimdev.my.id/)
+- 👨‍💻 All of my projects are available at [https://fahmiibrahimdev.my.id/projects](https://fahmiibrahimdev.my.id/projects)
 
-- 📝 I regularly write articles on [https://fahmiibrahimdev.my.id/](https://fahmiibrahimdev.my.id/)
+- 📝 I regularly write articles on [https://fahmiibrahimdev.my.id/articles](https://fahmiibrahimdev.my.id/articles)
 
 - 💬 Ask me about **Laravel, IoT**
 
